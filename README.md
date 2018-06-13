@@ -7,5 +7,5 @@ Quick reference:
 
 
 -  [Citable images of the manuscript](https://hcmid.github.io/ms-hackathon-2018/bern88-thumbs/)
--  Project [wiki](https://github.com/HCMID/germanicus/wiki).  Use this to jot down notes you don't want to forget, ask questions you need help with, or help other members of the team.
+-  [Project wiki](https://github.com/HCMID/germanicus/wiki).  Use this to jot down notes you don't want to forget, ask questions you need help with, or help other members of the team.
 -  MID Club introduction to digital editing (planned for Sept., 2018)
