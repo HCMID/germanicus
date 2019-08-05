@@ -1,6 +1,6 @@
 # `germanicus`
 
-This repository is the future home of a collaboration between  the Holy Cross MID Club and participating secondary schools to edit manuscripts of Germanicus' Latin translation of the *Phaenomena* of Aratus (also known simply as the *Aratea*).  Our first project is Bern Burgerbibliothek 88.
+This repository hosts collaborative work between  the Holy Cross MID Club and participating secondary schools to edit manuscripts of Germanicus' Latin translation of the *Phaenomena* of Aratus (also known simply as the *Aratea*).  Our first project is Bern Burgerbibliothek 88.
 
 
 Quick reference:
