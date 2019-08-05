@@ -1,0 +1,3 @@
+Text URN#Format#Document#Namespace mapping#Citation model
+urn:cts:latinLit:phi0881.phi003.bern88:#xml#aratea-bern88.xml#tei->http://www.tei-c.org/ns/1.0#/tei:TEI/tei:text/tei:body/tei:l[@n = '?']
+urn:cts:hcmidlatin:scholia.aratea.bern88:#xml#scholia-bern88.xml#tei->http://www.tei-c.org/ns/1.0#/tei:TEI/tei:text/tei:body/tei:div[@n = '?']/tei:ab[@n = '?']
