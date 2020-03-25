@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Aratea</title>
+        <author>Germanicus Caesar</author>
+        <editor>Davis Farrow</editor>
+        <editor>Stephanie Donovan</editor>
+        <editor>Sophia Sarro</editor>
+        <editor>Holllie Haycock</editor>
+        <editor>Shree Khanolkar</editor>
+      </titleStmt>
+      <editionStmt>
+        <p>Original diplomatic edition of Bern 88</p>
+      </editionStmt>
+      <publicationStmt>
+        <p>Digitally published by HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Directly edited from images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <l n="96"> <persName>Virginis</persName> inde sub est facies· cui plena sinistra</l>
+      <l n="98"> Qua te diva vocem tangunt mortalia siti·</l>
+      <l n="99"> Carmina·nec surdam prebes venerantibus aurem·</l>
+      <l n="100"> Exosa heu mortale genus medio mine curru</l>
+      <l n="101"> Stabunt quadripedes·et flexis letus habenis·</l>
+      <l n="102"> Teque tuum que canam terris venerabile numen; </l>
+      <l n="103"> Aurea pacati regeret cum saecula mundi·</l>
+      <l n="104"> Iustitia inviolata malis·placidissima <persName>virgo</persName>·</l>
+      <l n="105"> Seu illa astrei genus est quem fama parentem</l>
+      <l n="106"> Traditit astrorum·seu vero intercidit<unclear>avo</unclear>·</l>
+      <l n="107"> Ortus fama tui· mediis te laeta ferebas</l>
+      <l n="108"> Sublimis populis·nec de dignata subire</l>
+      <l n="109"> Tecta hominum·et puros sine crimine diva penates</l>
+      <l n="110"> Iura dabas·cultuque novo rudem vulgus <dontknow>inoms</dontknow></l>
+      <l n="111"> Formabas vitem sinceros artibus usus;</l>
+      <l n="112"> Nondum vesanos rabies nudaverat enses·</l>
+      <l n="113"> Nec consanguineis fuerat discordia nota·</l>
+      <l n="114"> Ignotique maris cursus·privataque tellus </l>
+      <l n="115"> Grata satis; neque per dubios avidissima ventos·</l>
+      <l n="116"> Spes·procul amotas fabricata nave petebant·</l>
+    </body>
+  </text>
+</TEI>

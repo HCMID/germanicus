@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Aratea</title>
+        <author>Germanicus Caesar</author>
+        <editor>Liam Yanulis</editor>
+        <editor>Grace Morrison</editor>
+      </titleStmt>
+      <editionStmt>
+        <p>Original diplomatic edition of Bern 88</p>
+      </editionStmt>
+      <publicationStmt>
+        <p>Digitally published by HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Directly edited from images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <l n="123"> Velato· <abbr>tristesq·</abbr><expan>tristesque</expan> genas
+    abscondita ripa;</l>
+      <l n="124"> Nullus tunc larem· nullos adit illa penates;</l>
+      <l n="125"> Tantum cum trepidum uulgus cetusque notabat·</l>
+      <l n="126"> Increpat opatrum soboles oblita priorum</l>
+      <l n="127"> Degeneres semper· semperque habitura minores;</l>
+      <l n="128"> Quidme cuius abit usus per vota precatis·</l>
+      <l n="129"> Querenda est sedes nobis noua saecula vestra</l>
+      <l n="130"> Artibus indomitis tradam· scelerique cruento;</l>
+      <l n="131"> Haec effata· super montes petit alite corsu·</l>
+      <l n="132"> Attontitos linquens populos graviora paventis;</l>
+      <l n="133"> 
+    </body>
+  </text>
+</TEI>

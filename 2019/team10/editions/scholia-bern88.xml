@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Scholia to the Aratea of Germanicus</title>
+        <editor>Piper Franckum</editor>
+        <editor>Coriell Miller</editor>
+        <editor>Karilyn Sheldon</editor>
+        <editor>Lisa Liu</editor>
+        <editor>Zachary Sowerby</editor>
+      </titleStmt>
+      <editionStmt>
+        <p>Original diplomatic edition of Bern 88</p>
+      </editionStmt>
+      <publicationStmt>
+        <p>Digitally published by HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Directly edited from images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="4r">
+        <ab n="Perseus">
+        </ab>
+      </div>
+      <p>
+        Perseus qui fertur tenere caput gurgonis habet stlellas in utroque umero splendidam <num value="1">I</num> in summitatem manus dextre <num value="1">I</num> in eiusdem cubito <num value="1">I</num> in summitatem manus sinistre <num value="1">I</num> in ventre <num value="1">I</num> in desxtro lubo nitidam in dextro femore splendidam <num value="1">I</num> in utroque genu <num value="1">I</num>  in tibia <num value="2">II</num> gurgonus dicitur habere in capite stellam <num value="1">I</num> et in crinibus <num value="3">III</num> sunt omnes <num value="16">XVI</num>
+      </p>
+    </body>
+  </text>
+</TEI>

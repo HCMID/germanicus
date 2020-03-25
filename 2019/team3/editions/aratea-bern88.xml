@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Aratea</title>
+        <author>Germanicus Caesar</author>
+        <editor>Katie Painter</editor>
+        <editor>Rachel Harris</editor>
+        <editor>Navia Ladd</editor>
+        <editor>Melissa Moss</editor>
+        <editor>Maia Lee-Chin</editor>
+      </titleStmt>
+      <editionStmt>
+        <p>Original diplomatic edition of Bern 88</p>
+      </editionStmt>
+      <publicationStmt>
+        <p>Digitally published by HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Directly edited from images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <l n="75"> hac <persName>Ophiucus</persName> erit longe caput ante notabilis</l>
+<l n="76">et vastos humeros - tum cetera membra sequuntur-</l>
+<l n="77">illis languet honos - umeris manet integer ardor-</l>
+<l n="78">luna etiam pleno mense cum dividit orbes-</l>
+<l n="79">lux tenuis manibus per quas elabitur anguis-</l>
+<l n="80">pressus utraque manu medium cingens <persName>Ophiucum</persName>-</l>
+<l n="81"><persName>Scorpius</persName>ima pedum tangit - sed planta sinistra</l>
+<l n="82">in tergo residet vestigia dextera pendent</l>
+<l n="84">partem anguis retinet - per levum attolitur omnis</l>
+<l n="85">quantumque ad levam distantia notantur-</l>
+<l n="86">erigitur tantum serpens - atque ultima mento</l>
+<l n="87">stella sub aetheria fulget crinita corona-</l>
+<l n="88">at qua se dorso sinuabit lubricus anguis-</l>
+<l n="89">insigni caelum pereundem lumina chelae</l>
+    </body>
+  </text>
+</TEI>

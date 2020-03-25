@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Aratea</title>
+        <author>Germanicus Caesar</author>
+        <editor>YOUR NAME HERE</editor>
+      </titleStmt>
+      <editionStmt>
+        <p>Original diplomatic edition of Bern 88</p>
+      </editionStmt>
+      <publicationStmt>
+        <p>Digitally published by HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Directly edited from images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <l n="148">Ad capitis suberunt gemini prolemque- tonantis- </l>
+      <l n="148a">Aegregriam- et proprio post reddita numina celo ;</l>
+      <l n="148b">Nam iachedemonus cum mars caluisset aphidnis </l>
+      <l n="148c">Castor a cecropi tulit me sementia belli</l>
+      <l n="148d">At frater lucemque et fata super facit aeui- </l>
+      <l n="148e">Protinus alternae germanos tempora une- </l>
+      <l n="148f">Iuppiter attollit- caelique me elsa receptans</l>
+      <l n="149g">Aeternae flagrare facis iubet ignibus ambos</l>
+
+
+    </body>
+  </text>
+</TEI>
