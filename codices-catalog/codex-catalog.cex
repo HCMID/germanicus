@@ -1,0 +1,20 @@
+// This is the declaration of a CITE collection of text-bearing surfaces.
+// We concatenate data from the codices-data directory with this.
+
+#!citecollections
+URN#Description#Labelling property#Ordering property#License
+urn:cite2:mid:bern88pages.v1:#Pages of codex Bern 88#urn:cite2:mid:bern88pages.v1.label:#urn:cite2:mid:bern88pages.v1.sequence:#CC-attribution-share-alike
+
+#!citeproperties
+Property#Label#Type#Authority list
+urn:cite2:mid:bern88pages.v1.sequence:#Page sequence#Number#
+urn:cite2:mid:bern88pages.v1.urn:#URN#Cite2Urn#
+urn:cite2:mid:bern88pages.v1.rv:#Recto or Verso#String#recto,verso
+urn:cite2:mid:bern88pages.v1.label:#Label#String#
+urn:cite2:mid:bern88pages.v1.image:#TBS image#Cite2Urn#
+
+#!datamodels
+Collection#Model#Label#Description
+urn:cite2:mid:bern88pages.v1:#urn:cite2:cite:datamodels.v1:tbsmodel#Model of codex Einsiedeln 121#Codex Einsiedeln 121 in the CITE model of a sequence of text-bearing surfaces
+
+#!citedata
