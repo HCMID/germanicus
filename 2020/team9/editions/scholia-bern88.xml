@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Scholia to the Aratea of Germanicus</title>
+        <editor>Gavin Seymour</editor>
+        <editor>Mary Madaus</editor>
+        <editor>elizabeth Li</editor>
+        <editor>Celia Flory</editor>
+        <editor>Luke Giuntoli</editor>
+        <editor>Julia Spiegel</editor>
+      </titleStmt>
+      <editionStmt>
+        <p>Original diplomatic edition of Bern 88</p>
+      </editionStmt>
+      <publicationStmt>
+        <p>Digitally published by HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Directly edited from images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="4r">
+        <ab n="1"> Pisces aquilonius $ habet stellas $ <num value="12">xii</num> australis
+        $ <num value="15">XU</num> $ linteum eorum inquo continentur $
+        habet stellas ad aquilonem $ <num value="3">III</num> $ adoccasum $
+        <num value="3">III</num> $ ad orientem $ <num value="3">III</num> $ inconexum tres $
+        sunt omnes $ <num value="39">xxxuiiii</num> $
+        </ab>
+      </div>
+
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Aratea</title>
+        <author>Germanicus Caesar</author>
+        <editor>Richard Ciolek</editor>
+        <editor>Rose Kaczmarek</editor>
+        <editor>Zack Tympanick</editor>
+        <editor>Augusta Holyfield</editor>
+      </titleStmt>
+      <editionStmt>
+        <p>Original diplomatic edition of Bern 88</p>
+      </editionStmt>
+      <publicationStmt>
+        <p>Digitally published by HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Directly edited from images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <l n="446">Signorum partes quorum praedicta figura.</l>
+      <l n="447">Annum explecturi predicunt quattor orbes.</l>
+      <l n="448">Inter ualla trium transuersus colligit unus.</l>
+      <l n="449">Nec par est illi spatium duo namque feruntur</l>
+      <l n="450">Inter se aequales. quorum exstat maxima forma.</l>
+      <l n="451">Et tot idem <sic>interse</sic> praedictur ante minores.</l>
+      <l n="452">Hi semper distant illis communia signa.</l>
+      <l n="453">Committunt. quase tangunt pars aequa totarum.</l>
+      <l n="454">Dividitur binos ut siquis desetet arcus;</l>
+      <l n="455">Dissimiles cunctis liquida sub nocte uidentur</l>
+      <l n="456">Sidere; cum reddunt sinceros eminu signes.</l>
+      <l n="457">Lactis ei color est. mediis ut lucet in umbris.</l>
+      <l n="458">Lacteus hic orbis nullo minus orbe rotatur;</l>
+      <l n="459">Celsior ad boream qui uergit circulus. altor</l>
+      <l n="460">Et peragit tractur. uicinis haud procul ursis.</l>
+      <l n="461">Perge minos currit medios. uestigia tangit.</l>
+      <l n="462">Aurigae plantamque tegit perfeida leuam.</l>
+      <l n="463">Transuersae andromedae setat utraque laterat actu.  </l>
+      <l n="464">Et totam ab humero dextram summa ungula cursu  </l>
+      <l n="464a">Diuidit atque sagittiseri pernicia crura; </l>
+      <l n="464b">Hinc alius rapit orbis iter. tum candidus ora </l>
+      <l n="466">Cygnus habet iuxta cuubitus lucet super ipsum </l>
+      <l n="467">Fixa genu facies. et primis ignibus anguis </l>
+      <l n="468">Effugit! at uirgo tutus leo totus in ipso </l>
+      <l n="469">Cancer. ab aduersis omnem setat ille leonem</l>
+      <l n="470">Clunibus. hyrsutisque ibuam perpetoris exit.</l>
+      <l n="471">Cancro qui fulgent oculi. ceu regulac currit</l>
+      <l n="472">Per medios. sic diuisi latera utraque tangunt.</l>
+      <l n="473a">Et geminis humeros. et tauri ungula dextra</l>
+      <l n="473b">Radit orphycui humeros uastor. fulgere notabis;</l>
+      <l n="473">Hunc octo in partes siquis diuiserit orbem.</l>
+      <l n="474">quinque super terras semper fulgere notabit.</l>
+      <l n="475">Abdit tres undis leuibiusque latere sub umbris</l>
+      <l n="476">Hoc cancrum tetigit cumtitan orbem timeto</l>
+      <l n="477">Aestatem rapidam. et soluentis corpora morbos</l>
+      <l n="478">Tunc habet aeterni custos fatigia summa</l>
+      <l n="479">Erectoque polo breuibus non applicat unum</l>
+      <l n="480">Candentis currsus auerso nicitur orbe</l>
+      <l n="481">Dum tangat metas pronus deuoluitur inde.</l>
+      <l n="482">Hinc boreae propior contra rius excipit austros</l>
+      <l n="483">Ergo chero metas hiemis glacialibus austris</l>
+      <l n="484">Aestatisque. tenet fraglanti sidera cancer</l>
+      <l n="485">hoc medium sidus findit diuexior orbis</l>
+      <l n="486">Fundentis latices genua implicat alligat illum. </l>
+      <l n="487">Intorta pistris cauda uelocia crura</l>
+      <l n="488">Contigerit leporis canem iam defecat imum</l>
+      <l n="489">Defecat et sacre speciosae plustria puppis</l>
+      <l n="490">Centaurique humeros et scorpion ultima cauda</l>
+      <l n="491">Spicula torquentem magnus micat orbis in illo</l>
+      <l n="492">Inde austro propior sol est aquilone relicto</l>
+      <l n="493">Et gelidas hiemes hebetato lumine portat</l>
+      <l n="494">Huius tres celo partes a furgere cernes</l>
+      <l n="495">Quinque latent undis et longa nocte feruntur</l>
+      <l n="496">Hos inter medius nullo minor orbis agetur</l>
+      <l n="497">In quo cum phoebus radiatos extulit ignes</l>
+      <l n="498">Diuidut aequali spatio noctemque diemque</l>
+      <l n="499">Bis redit hec facies librato sidere mundi</l>
+      <l n="500">Cum uer fecundus surgit cum deficit aestas</l>
+      <l n="501">Signa aries taurusque aequo tanguntur ab orbe</l>
+      <l n="502">Sed princeps aries toto fulgebit in orbe</l>
+      <l n="503">Tauri armum subit et flexi duo sidera cruris</l>
+      <l n="504">Ad medium oriona fecat spiramque priorem</l>
+      <l n="505">hidri et crateram leuem coruique querentis</l>
+      <l n="506">Ultima deficiunt nigra qua sidera cauda</l>
+      <l n="507">Illic at chelas transuerso lumine querer</l>
+      <l n="508">Et celsi mediam partem anguis et amedio ophiucum</l>
+      <l n="509">Nec procul inde aquila toto capite incubat ardens</l>
+      <l n="510">Pegasus et longe spatio ceruicis inheret</l>
+      <l n="511">Hos orbes quorum aetus at signa docemus</l>
+      <l n="512">Rectus per medios decurrens traicit axis</l>
+      <l n="513">Tres inter uallis paribus sine fine notantur</l>
+      <l n="514">Nec mutare uias possunt nec iungere sulcor</l>
+      <l n="515">Quartus inobliquam tres unus colligit orbis</l>
+      <l n="516">Partibus extremos diuersos implicat unus</l>
+      <l n="517">Inter utrumque fecat medium defectur inillu</l>
+      <l n="518">Nonsi palladia doctur formaret ab arte</l>
+      <l n="519">Distantes orbes melius religasset ab uno</l>
+      <l n="520">Sed trib; idem ortus omni nascentur ab aeuo</l>
+      <l n="521">Atque eadem occusus remanent certissima signa</l>
+      <l n="522">Quartus ab oceano tantum uestigia mutat</l>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Aratea</title>
+        <author>Germanicus Caesar</author>
+        <editor>Gavin Seymour</editor>
+        <editor>Mary Madaus</editor>
+        <editor>elizabeth Li</editor>
+        <editor>Celia Flory</editor>
+        <editor>Luke Giuntoli</editor>
+        <editor>Julia Spiegel</editor>
+      </titleStmt>
+      <editionStmt>
+        <p>Original diplomatic edition of Bern 88</p>
+      </editionStmt>
+      <publicationStmt>
+        <p>Digitally published by HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Directly edited from images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <l n="241"> Hunc ultra gemini piscis quorum alter in austros$</l>
+      <l n="242"> Tendit threicium boream $ petit alter et audit</l>
+      <l n="243"> Stridentis auras $ niueus quas procreat hemus</l>
+      <l n="244"> Non illis liber cursus $ sed uincula cauda</l>
+      <l n="245"> Cingula iterumque $ tenent $ uno coeuntia nodo</l>
+      <l n="246"> Nodum stella premit piscis $ qui respicit auras</l>
+      <l n="247"> Threicias $ dextram andromede ceranatur adillam</l>
+
+    </body>
+  </text>
+</TEI>

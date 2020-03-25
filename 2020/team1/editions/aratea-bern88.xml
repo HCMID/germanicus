@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Aratea</title>
+        <author>Germanicus Caesar</author>
+        <editor>Emma Sabin</editor>
+          <editor>Aarohi Goel</editor>
+            <editor>Charles Crounse</editor>
+              <editor>Sohpia Rovitti</editor>
+                <editor>Richard Ciolek</editor>
+      </titleStmt>
+      <editionStmt>
+        <p>Original diplomatic edition of Bern 88</p>
+      </editionStmt>
+      <publicationStmt>
+        <p>Digitally published by HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Directly edited from images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <l n="48">Has inter medias abrupti fluminis instar·</l>
+      <l n="49">Immanis serpens sinuosa uolumina uersat·</l>
+      <l n="50">Hinc atque hinc supraque illas mirabile monstrum·</l>
+      <l n="51">Cauda helicen supratendit·redit adcynosupram·</l>
+      <l n="52">Squamigero lapsu·qua desinit ultima cauda·</l>
+      <l n="53">Hac caput est helices; flexu comprenditur alto</l>
+      <l n="54">Serpentis cinosura; ille explicat amplius orbes</l>
+      <l n="55">Sublatusque retro·maiorem respicit arcton;</l>
+      <l n="56">Ardent ingentes oculi·caua tempora claris </l>
+      <l n="57">Ornantur flammis·mento sedet unicus ignis;</l>
+      <l n="58">Tempus dexterique signat stella draconis·</l>
+      <l n="59">Quaeque sedet mento·lucetque nouissima cauda</l>
+      <l n="60">Extremumque helices sidus·micat ac radiatur</l>
+      <l n="61">Serpentis decline caput·sic proxima signa</l>
+      <l n="62">Occasus ortusque uno tanguntur ab ore</l>
+      <l n="63">Oceani tumidis ignotae fluctibus arctoe·</l>
+      <l n="64">Semper inocciduis seruantes ignibus axem·</l>
+      <l n="90">Ipsam helicem sequitur senior·iacoloque·<unclear>minat</unclear></l>
+      <l n="91"><placeName>Seuille</placeName> arto phylax bacchino munere cesus·</l>
+      <l n="92"><persName>Icarus</persName>ereptam pensabit sidere uitam;</l>
+      <l n="93">Nonulli obscurum caput est·non tristia membra·</l>
+      <l n="94">Sed proprio tamen una micat sub nomine flamma·</l>
+      <l n="95">Arcturum dixere sinus qua uincula nodant;</l>
+
+
+    </body>
+  </text>
+</TEI>
