@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Aratea</title>
+        <author>Germanicus Caesar</author>
+        <editor>Holly West</editor>
+        <editor>William Crounse</editor>
+        <editor>Lorna Mathias</editor>
+        <editor>Madeleine Pooler</editor>
+      </titleStmt>
+      <editionStmt>
+        <p>Original diplomatic edition of Bern 88</p>
+      </editionStmt>
+      <publicationStmt>
+        <p>Digitally published by HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Directly edited from images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <l n="1">Ab <persName>ioue</persName> principium magno deduxit <persName>Aratus></persName></l>
+      </body>
+  </text>
+</TEI>
