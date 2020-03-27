@@ -9,6 +9,11 @@
         <editor>William Crounse</editor>
         <editor>Lorna Mathias</editor>
         <editor>Madeleine Pooler</editor>
+        <editor> Anne-Catherine Schaaf</editor>
+        <editor>Zachary Tympanick</editor>
+        <editor>Richard Ciolek</editor>
+        <editor>Ryan Wynn</editor>
+        <editor> Maia Lee-Chin</editor>
       </titleStmt>
       <editionStmt>
         <p>Original diplomatic edition of Bern 88</p>
@@ -23,8 +28,18 @@
   </teiHeader>
   <text>
     <body>
-      <l n="1">Ab <persName>ioue</persName> principium magno deduxit <persName>Aratus></persName></l>
-    
+      <l n="256"><rs type="astro">Pliades</rs> suberunt: brevis et locus occupat omnes</l>
+      <l n="257">Nec facile est <unclear>cerni nisi</unclear>quod coeuntia plura</l>
+      <l n="258">sidera. communem ostendunt ex omnibus: ignem</l>
+      <l n="259">septem traduntur numero: sed carpitur una; </l>
+      <l n="260">deficente oculo distinguere corpora parua</l>
+      <l n="261">nomina sed cunctis seruauit fida uetustas: </l>
+    <l n="262"><persName n="urn:cite2:hmt:pers.v1:pers1006">Electra</persName>: <persName n="urn:cite2:hmt:pers.v1:pers1008">alcyoneque</persName>: <persName n="">caelenoque</persName> <persName n="urn:cite2:hmt:pers.v1:pers1005">meropeque</persName> </l>
+      <l n="263"><persName n="">Asterope</persName> et <persName n="urn:cite2:hmt:pers.v1:pers1003">taygete</persName> simul et mea parentem </l>
+      <l n="264">Caelifero genitas: si versus sustinet <persName n="urn:cite2:hmt:pers.v1:pers462">adlas</persName> </l>
+      <l n="265">regna <persName n="urn:cite2:hmt:pers.v1:pers8">Iouis</persName> superusque adque ipso pondere gaudet</l>
+      <l n="266">lumine non multis plias certauerit astris:</l>
+      <l n="267">Cum primum agricolam uentus super imminet agri;</l>
       </body>
   </text>
 </TEI>
