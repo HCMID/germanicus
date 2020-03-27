@@ -24,6 +24,60 @@
   <text>
     <body>
       <l n="1">Ab <persName>ioue</persName> principium magno deduxit <persName>Aratus></persName></l>
-      </body>
+      <!-- 1 verso -->
+      <l n="1">Ab <persName>ioue</persName> principium magno deduxit <persName>Aratus></persName></l>
+      <l n="2">Carminis at nobis genitor tu maximus auctor</l>
+      <l n="3">Te ueneror · tibi sacra fero · doctique laboris</l>
+      <l n="4">Primitias · <unclear>'</unclear> probat ipse deum rectorque satorque</l>
+      <l n="5">Quantum et enim <choice><sic>possent</sic><corr>possint</corr></choice> anni certissimia signa · </l>
+      <l n="6">Qua sol ardentem cancrum papidissimus ambit.</l>
+      <l n="7">Diuersasque  secat metas gelidi capricorni</l>
+      <l n="8"><choice><sic>quaeue</sic><corr>quaue</corr></choice> aries · et libra  <choice><sic>equant</sic><corr>aequant</corr></choice> diuortia lucis ·</l>
+      <l n="9">Si non <choice><sic>parta</sic><corr>+tanta</corr></choice> quies te preside puppibus aequor ·</l>
+      <l n="10">Cultorique daret terras · procul arma silerent · </l>
+      <l n="11">Nunc uacat audaces <choice><sic>ad</sic><corr>+in</corr></choice> caelum tollere uultus ·</l>
+      <l n="12">Sideraque et mundi uarios agnoscere motus ·</l>
+      <l n="13">Nauita quid caueat · quid scitus uitet arator ;</l>
+      <l n="14">Quando ratem uentis · aut credat femina terris ·</l>
+
+
+      <!-- 2 recto -->
+      <l n="48">Has inter medias abrupti fluminis instar·</l>
+      <l n="49">Immanis serpens sinuosa uolumina uersat·</l>
+      <l n="50">Hinc atque hinc supraque illas mirabile monstrum·</l>
+      <l n="51">Cauda helicen supratendit·redit adcynosupram·</l>
+      <l n="52">Squamigero lapsu·qua desinit ultima cauda·</l>
+      <l n="53">Hac caput est helices; flexu comprenditur alto</l>
+      <l n="54">Serpentis cinosura; ille explicat amplius orbes</l>
+      <l n="55">Sublatusque retro·maiorem respicit arcton;</l>
+      <l n="56">Ardent ingentes oculi·caua tempora claris </l>
+      <l n="57">Ornantur flammis·mento sedet unicus ignis;</l>
+      <l n="58">Tempus dexterique signat stella draconis·</l>
+      <l n="59">Quaeque sedet mento·lucetque nouissima cauda</l>
+      <l n="60">Extremumque helices sidus·micat ac radiatur</l>
+      <l n="61">Serpentis decline caput·sic proxima signa</l>
+      <l n="62">Occasus ortusque uno tanguntur ab ore</l>
+      <l n="63">Oceani tumidis ignotae fluctibus arctoe·</l>
+      <l n="64">Semper inocciduis seruantes ignibus axem·</l>
+      <l n="90">Ipsam helicem sequitur senior·iacoloque·<unclear>minat</unclear></l>
+      <l n="91"><placeName>Seuille</placeName> arto phylax bacchino munere cesus·</l>
+      <l n="92"><persName>Icarus</persName>ereptam pensabit sidere uitam;</l>
+      <l n="93">Nonulli obscurum caput est·non tristia membra·</l>
+      <l n="94">Sed proprio tamen una micat sub nomine flamma·</l>
+      <l n="95">Arcturum dixere sinus qua uincula nodant;</l>
+      <l n="71">Clara <persName>arianneo</persName> sacrata est igne corona·</l>
+      <l n="72">Hunc illi <persName>bacchus</persName> thalami memor addit honorem </l>
+      <l n="73">Terga nitent stellis ad quas se uertice tollit</l>
+      <l n="74">Succiduis genibus lassum et miserabile sidus</l>
+      <l n="117">Diuitias; fructusque dabat placata colono </l>
+      <l n="118">Sponte sua tellus·nec parui terminus agri </l>
+      <l n="119">Praestabat <choice><abbr>dns</abbr><expan>dominus</expan></choice> signo tutissima rura·</l>
+      <l n="120">At·postquam argenti crevit deformior aetas·</l>
+      <l n="121">Raribus inuasit maculatas fraudibus urbes·</l>
+      <l n="122">Seraque ab excelsis descendens montibus ore </l>
+
+      <!-- 2 verso -->
+
+    </body>
   </text>
 </TEI>
