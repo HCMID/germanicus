@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Aratea</title>
+        <author>Germanicus Caesar</author>
+        <editor>Mary Madaus</editor>
+        <editor>Braedon Hansen</editor>
+        <editor>Gavin Seymour</editor>
+        <editor>Vaishnavi Ladd</editor>
+        <editor>Samantha Karlson</editor>
+        <editor>Caroline Mann</editor>
+      </titleStmt>
+      <editionStmt>
+        <p>Original diplomatic edition of Bern 88</p>
+      </editionStmt>
+      <publicationStmt>
+        <p>Digitally published by HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Directly edited from images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <l n="286">cum <choice> <sic>primu</sic><corr>primus</corr></choice> ergo chero semper properare uidetur.</l>
+      <l n="287">oceano mersus sopitas condere flammas. </l>
+      <l n="288">Tum breuis occasus <choice><abbr>ortusq.</abbr><expan>ortusque</expan></choice> intercipit hora; </l>
+      <l n="289">Cum sol ambierit metas gelidi capricorni; </l>
+      <l n="290">Nam neque perficiet cursus et uota breuis lux; </l>
+      <l n="291">Et cum terrores auget nox atra marinos. </l>
+      <l n="292">Multum clamatos frustra spectaberis ortus; </l>
+      <l n="293">Tunc frigora. aut rapidus ponto tunc incubat auster. </l>
+      <l n="294">Nigra ministeria. et nautis tremor occupat artus; </l>
+      <l n="295">Sed <choice> <sic>ratione</sic><corr>rationes</corr></choice> anni temeraria pectora soluunt. </l>
+      <l n="296"> Nulla dies oritur·qua iam uacua aequora cernant</l>
+      <l n="297">Puppibus; et semper tumidus ratis innatat undis</l>
+      <l n="298">Anterratem temptare undas iuuat·aspera sed cum</l>
+      <l n="299">Adsulat lateri depraensae spuma carinae</l>
+      <l n="301"><choice><abbr>Inventasq</abbr><expan>Inventasque</expan></choice>alii terras pro munere narrant</l>
+      <l n="302">Interea examinat pauidos instantis aquae mons</l>
+      <l n="303">Ast allii procul a terra iactantur inalto</l>
+      <l n="304">Punit eos breve <choice><abbr>lignu</abbr><expan>lignus</expan></choice>·et fata instantia pellunt</l>
+      <l n="305">Nam tantum aloeto quantum rate fluctibus absunt</l>
+
+      <l n="345">Fulget et argoe stellis aplustria puppis </l>
+      <l n="346">Puppe et enim trahitur non recto libera cursu. </l>
+      <l n="347">Ut cum decurrend inhibet iam nauita remos. </l>
+      <l n="348"><choice><abbr>Auersamq.</abbr><expan>Auersamque</expan></choice> ratem uotis damnatus abore</l>
+      <l n="349">Per legit. optatam cupiens contingere terram. </l>
+      <l n="350">Sed quae pars uiolata fugit coeuntia saxa. </l>
+      <l n="351">Numina iunonis tutus cum fugit iason;</l>
+      <l n="352">Haec micat <choice> <sic>incaelo</sic><corr>in caelo</corr></choice>lateri nonamplius aucta. </l>
+      <l n="353">Quamsurgit maius. qua debet reddere proram</l>
+      <l n="354"><choice> <sic>Inter cepta</sic><corr>Intercepta</corr></choice> perit. Nulla subimagine forma.</l>
+      <l n="355">Puppis demisso tantum stat roscida clauo</l>
+
+      <l n="356"><choice> <sic>Atprocul</sic><corr>At procul</corr></choice> Expositam sequitur nereia pistris </l>
+      <l n="357"><persName>Andromedam</persName>. media est solisuia. cumtam illa </l>
+      <l n="358">Terretur monstro pelagi. <choice> <sic>gaudetq.</sic><corr>gaudetque</corr></choice> subaxe</l>
+      <l n="359">Diuersi posita. et boreae uicina legente</l>
+      <l n="360">Auster. pristinagit duo sidera. per legit unum;</l>
+      <l n="361"><choice> <sic>Namq.</sic><corr>Namque</corr></choice> aries supra pristim <choice> <sic>piscesq.</sic><corr>piscesque</corr></choice> feruntur.</l>
+      <l n="362">Belua <choice> <sic>sedponti</sic><corr>sed ponti</corr></choice> non multum praeterit amnem;</l>
+
+
+
+
+    </body>
+  </text>
+</TEI>
