@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Aratea</title>
+        <author>Germanicus Caesar</author>
+        <editor>Isabeau McKenna</editor>
+        <editor>Kevin O'Neil</editor>
+        <editor>Morgan Morel</editor>
+        <editor>Hollie Haycock Portelli</editor>
+        <editor>Zachary Sowerby</editor>
+      </titleStmt>
+      <editionStmt>
+        <p>Original diplomatic edition of Bern 88</p>
+      </editionStmt>
+      <publicationStmt>
+        <p>Digitally published by HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Directly edited from images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <l n="276">cignus uel <persName>ledae</persName> thalamis qui lapsus adulter·</l>
+    <l n="277">furta <persName>iouis</persName>  falsa uolucer subimagine texit;</l>
+    <l n="278">inter defectum sidus·cignumque nitentem·</l>
+    <l n="279">mercurialis habet sedem lyra; multa videbis</l>
+    <l n="280">Stellarum uacua in cignum multa ignea rursus;</l>
+    <l n="281">Aut medii fulgoris erunt penna utraque laeta;</l>
+    <l n="282">Dexterior iuxta regalem Cepheos ulnam.</l>
+    <l n="283">At fulget leua instantem sibi Pegason ala.</l>
+    <l n="284">Piscibus inter lucet equilatus adcaput eius.</l>
+    <l n="285">	Dextra manu latices qui fundit aquarius exit;</l>
+    <l n="315">Est etiam incertum quo cornu missa sagitta·</l>
+    <l n="316">Quam seruat <persname>iouis</persname> ales· Habet miracula nulla;</l>
+    <l n="317">si caelum ascendit <persname>iouis</persname> armiger. hic tamen arduum</l>
+    <l n="318">Unguibus innocuis prygium rapuit <persname>Ganimeden</persname>;</l>
+    <l n="319">Et telo appositus· cuius quo <persname>iuppiter</persname> arsit</l>
+    <l n="320">In puero. Luit excidium quem <placeName>troia</placeName> furorem;</l>
+    <l n="321">Delphinus inde breuis lucet iuxta capricornum·</l>
+    <l n="322">Paucis sideribus. tulit hic Atiantida nymphen</l>
+    <l n="323">In thalamos neptune tuos. Miseratus amantem;</l>
+    <l n="324">Sidera quae mundi pars celsior <choice><sic>aethe</sic><corr>aethere</corr></choice> uoluit;</l>
+    <l n="325">Quaeque·uident borean uentis adsueta serenis;</l>
+    <l n="326">Diximus. hinc alius declinis dicitur ordo.</l>
+    <l n="327">Sentiet insanos obscuris flatibus austros;</l>
+  </body>
+  </text>
+</TEI>
