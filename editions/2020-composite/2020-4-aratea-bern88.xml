@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http·//www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Aratea</title>
+        <author>Germanicus Caesar</author>
+        <editor>Mai Richmond</editor>
+        <editor>Allan Crounse</editor>
+        <editor>Quinn McIntyre</editor>
+        <editor>Bailey McIntyre</editor>
+        <editor>Olivia Johnson</editor>
+
+      </titleStmt>
+      <editionStmt>
+        <p>Original diplomatic edition of Bern 88</p>
+      </editionStmt>
+      <publicationStmt>
+        <p>Digitally published by HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Directly edited from images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <l n="328">primus in obliquo rapitur sub pectore tauri</l>
+      <l n="329">orion nunulli magis uicina notabit</l>
+
+
+      <l n="341">auditum leoporem sequiter canis· et fuit ille·</l>
+      <l n="342">vigetur cursu rutili canis·ille per ethra·</l>
+      <l n="343">sic <choice><abbr>utrumq</abbr><expan>utrumque</expan></choice> oritur· sic occidit infreta sidus;</l>
+
+      <l n="387"> nec procul hinc· dexra defundit <pers>Aquarius</pers> undas.</l>
+      <l n="388"><choice><abbr>atq</abbr><expan>atque</expan></choice> imitata condunt errantis signa liquoris</l>
+      <l n="389">e quibus una magis sub cuda flamma relucet·</l>
+      <l n="390">squamigeri iustis pedibus· subit altera signa</l>
+      <l n="391">fundentis laticis· est et sine honore coroa·</l>
+      <l n="392"> ante sagittiferi paulum pernicia crura·</l>
+      <l n="393">scorpio erepta torquet qua spicula cauda·</l>
+
+    </body>
+  </text>
+</TEI>
