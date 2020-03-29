@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Aratea</title>
+        <author>Germanicus Caesar</author>
+        <editor>Yana Abramova</editor>
+        <editor>Zaela Crespo</editor>
+        <editor>Farrah Scott</editor>
+        <editor>Augusta Holyfield</editor>
+        <editor>Beatrice Palmer</editor>
+        <editor>Isabella Casillas</editor>
+        <editor>Melissa Moss</editor>
+      </titleStmt>
+      <editionStmt>
+        <p>Original diplomatic edition of Bern 88</p>
+      </editionStmt>
+      <publicationStmt>
+        <p>Digitally published by HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Directly edited from images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <l n="306">Belligerum <persName>Titan</persName> magnum cum contigit arcum</l>
+      <l n="307">Lucentem <choice><abbr>q</abbr><expan>que</expan></choice> ferum sinuato spicula neruo</l>
+      <l n="308">Iam clausum ratione mare est, iam nautia portu</l>
+      <l n="309">Infestam noctem fugiat longasque tenebras;</l>
+      <l n="310">Signum erit exorient nobis tune nocte superba</l>
+      <l n="311"><persName>Scorpius</persName> ille micat supra freta cerula cauda</l>
+      <l n="312">Insequitur uravis arcus et in lucem magis exit;</l>
+      <l n="313">Tunc alte <placeName>Cynosura</placeName> regit tunc totus inundas</l>
+      <l n="314">Vergitur <persName>orion</persName> humeris et vertice cephoeus;</l>
+    </body>
+  </text>
+</TEI>
