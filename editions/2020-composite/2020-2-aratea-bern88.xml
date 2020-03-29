@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Aratea</title>
+        <author>Germanicus Caesar</author>
+        <editor>Joseph William Cutting</editor>
+        <editor>Maximo Abrham Gutierrez Fenn</editor>
+        <editor>William Antonio Masferrer</editor>
+        <editor>William Matthew Brown</editor>
+        <editor>Stephen Louis Pittman</editor>
+
+      </titleStmt>
+      <editionStmt>
+        <p>Original diplomatic edition of Bern 88</p>
+      </editionStmt>
+      <publicationStmt>
+        <p>Digitally published by HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Directly edited from images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <l n="256">Pliades suberunt · breuis et locus occupat omnes</l>
+      <l n="257">nec facile est cerni nisi quod coeunti a plura</l>
+      <l n="258">sidera · communem ostendunt ex omnibus ignem;</l>
+      <l n="259">septem tradunter numero · sed carpitur una</l>
+      <l n="260">deficiente oculo distinguere corpora carua</l>
+      <l n="261">nomina sed cunctus servavti fida vetustus</l>
+      <l n="262">Electra · Alcyronque · Caelonoque · Meropeque</l>
+      <l n="263">Asterope et Taygete simul et mea parentem</l>
+      <l n="264">Caelifero genitae · sive rus sustinet atlas</l>
+      <l n="265">regna Iouis superoque atque ipso pondere gaudet</l>
+      <l n="266">lumine non multis Plias certa uertit</l>
+      <l n="267">cum primum agricolam uentus supimminet agris</l>
+
+      <l n="270"> quin etiam lyra <persName n="Mercury"> Mercurio </persName> dilecta deorum· </l>
+      <l n="271"> plurimulum accepte pro <choice> <sic> hs </sic> <corr> his </corr> </choice> celo nitet ante labore·</l>
+      <l n="272"> deuictam effigiem plantae erecta quoque dextra; </l>
+      <l n="269"> at cum surgit hiems· <unclear> pona </unclear> fugienda perritis; </l>
+      <l n="273"> tempora laeua premit· torti subiecta draconis </l>
+      <l n="274"> summa genu subuersa tenet qua se lyra uersat·</l>
+      <l n="275"> contra spectat auem·vel <persName n="Phoebe"> Phoebi </persName> qui fuit olim;</l>
+
+
+      <l n= "363"> amnem qui  <persName n= "Phaethonta"> Phaethonta </persName> suas defleuit ad undas· </l>
+      <l n= "364"> postquam patris equos non equo pondere rexit·</l>
+      <l n= "365"> Vulnere reddentem flammas iovis <persName n= "Jupiter"> </persName> hunc noua silua </l>
+      <l n= "366"> planxere ignotas maestae <persName n= "Phaethonta"> phetontides </persName> ulnis· </l>
+      <l n= "367"> <persName n= "Eridanus"> Heridanus </persName> medius liquidis hic in iacet undis· </l>
+      <l n= "368"> huius pars unde medium tenet <choice> <abbr> ast </abbr> <expan> astra </expan> </choice> <persName n= "Orion"> Orionis </persName> </l>
+      <l n= "369"> lapsa pedem. procul amotis qui piscibus usus ·</l>
+      <l n= "370"> Vincula· conectit, nodus cristam super ipsam </l>
+      <l n= "371"> aequoreae pistrix radians; sunt libera caelo </l>
+
+    </body>
+  </text>
+</TEI>
