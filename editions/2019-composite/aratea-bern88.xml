@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Aratea</title>
+        <author>Germanicus Caesar</author>
+        <editor>Holly West</editor>
+        <editor>William Crounse</editor>
+        <editor>Lorna Mathias</editor>
+        <editor>Madeleine Pooler</editor>
+        <editor>Rebecca Rose Kaczmarek</editor>
+        <editor>Anastasia Kaliabakos</editor>
+        <editor>Stephen Louis Pittman</editor>
+        <editor>Augusta Valentina Holyfield</editor>
+      </titleStmt>
+      <editionStmt>
+        <p>Original diplomatic edition of Bern 88</p>
+      </editionStmt>
+      <publicationStmt>
+        <p>Digitally published by HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Directly edited from images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+      <!-- 1 verso -->
+      <l n="1">Ab <persName>ioue</persName> principium magno deduxit <persName>Aratus></persName></l>
+      <l n="2">Carminis at nobis genitor tu maximus auctor</l>
+      <l n="3">Te ueneror · tibi sacra fero · doctique laboris</l>
+      <l n="4">Primitias · <unclear>'</unclear> probat ipse deum rectorque satorque</l>
+      <l n="5">Quantum et enim <choice><sic>possent</sic><corr>possint</corr></choice> anni certissimia signa · </l>
+      <l n="6">Qua sol ardentem cancrum papidissimus ambit.</l>
+      <l n="7">Diuersasque  secat metas gelidi capricorni</l>
+      <l n="8"><choice><sic>quaeue</sic><corr>quaue</corr></choice> aries · et libra  <choice><sic>equant</sic><corr>aequant</corr></choice> diuortia lucis ·</l>
+      <l n="9">Si non <choice><sic>parta</sic><corr>+tanta</corr></choice> quies te preside puppibus aequor ·</l>
+      <l n="10">Cultorique daret terras · procul arma silerent · </l>
+      <l n="11">Nunc uacat audaces <choice><sic>ad</sic><corr>+in</corr></choice> caelum tollere uultus ·</l>
+      <l n="12">Sideraque et mundi uarios agnoscere motus ·</l>
+      <l n="13">Nauita quid caueat · quid scitus uitet arator ;</l>
+      <l n="14">Quando ratem uentis · aut credat femina terris ·</l>
+
+      <!-- 2 recto -->
+      <l n="48">Has inter medias abrupti fluminis instar·</l>
+      <l n="49">Immanis serpens sinuosa uolumina uersat·</l>
+      <l n="50">Hinc atque hinc supraque illas mirabile monstrum·</l>
+      <l n="51">Cauda helicen supratendit·redit adcynosupram·</l>
+      <l n="52">Squamigero lapsu·qua desinit ultima cauda·</l>
+      <l n="53">Hac caput est helices; flexu comprenditur alto</l>
+      <l n="54">Serpentis cinosura; ille explicat amplius orbes</l>
+      <l n="55">Sublatusque retro·maiorem respicit arcton;</l>
+      <l n="56">Ardent ingentes oculi·caua tempora claris </l>
+      <l n="57">Ornantur flammis·mento sedet unicus ignis;</l>
+      <l n="58">Tempus dexterique signat stella draconis·</l>
+      <l n="59">Quaeque sedet mento·lucetque nouissima cauda</l>
+      <l n="60">Extremumque helices sidus·micat ac radiatur</l>
+      <l n="61">Serpentis decline caput·sic proxima signa</l>
+      <l n="62">Occasus ortusque uno tanguntur ab ore</l>
+      <l n="63">Oceani tumidis ignotae fluctibus arctoe·</l>
+      <l n="64">Semper inocciduis seruantes ignibus axem·</l>
+      <l n="90">Ipsam helicem sequitur senior·iacoloque·<unclear>minat</unclear></l>
+      <l n="91"><placeName>Seuille</placeName> arto phylax bacchino munere cesus·</l>
+      <l n="92"><persName>Icarus</persName>ereptam pensabit sidere uitam;</l>
+      <l n="93">Nonulli obscurum caput est·non tristia membra·</l>
+      <l n="94">Sed proprio tamen una micat sub nomine flamma·</l>
+      <l n="95">Arcturum dixere sinus qua uincula nodant;</l>
+      <l n="71">Clara <persName>arianneo</persName> sacrata est igne corona·</l>
+      <l n="72">Hunc illi <persName>bacchus</persName> thalami memor addit honorem </l>
+      <l n="73">Terga nitent stellis ad quas se uertice tollit</l>
+      <l n="74">Succiduis genibus lassum et miserabile sidus</l>
+
+      <!-- 2 verso -->
+      <l n="75">hac <persName>Ophiucus</persName> erit longe caput ante notabilis</l>
+      <l n="76">et vastos humeros - tum cetera membra sequuntur-</l>
+      <l n="77">illis languet honos - umeris manet integer ardor-</l>
+      <l n="78">luna etiam pleno mense cum dividit orbes-</l>
+      <l n="79">lux tenuis manibus per quas elabitur anguis-</l>
+      <l n="80">pressus utraque manu medium cingens <persName>Ophiucum</persName>-</l>
+      <l n="81"><persName>Scorpius</persName>ima pedum tangit - sed planta sinistra</l>
+      <l n="82">in tergo residet vestigia dextera pendent</l>
+      <l n="84">partem anguis retinet - per levum attolitur omnis</l>
+      <l n="85">quantumque ad levam distantia notantur-</l>
+      <l n="86">erigitur tantum serpens - atque ultima mento</l>
+      <l n="87">stella sub aetheria fulget crinita corona-</l>
+      <l n="88">at qua se dorso sinuabit lubricus anguis-</l>
+      <l n="89">insigni caelum pereundem lumina chelae</l>
+      <l n="96"><persName>Virginis</persName> inde sub est facies· cui plena sinistra</l>
+      <l n="98">Qua te diva vocem tangunt mortalia siti·</l>
+      <l n="99">Carmina·nec surdam prebes venerantibus aurem·</l>
+      <l n="100">Exosa heu mortale genus medio mine curru</l>
+      <l n="101">Stabunt quadripedes·et flexis letus habenis·</l>
+      <l n="102">Teque tuum que canam terris venerabile numen; </l>
+      <l n="103">Aurea pacati regeret cum saecula mundi·</l>
+      <l n="104">Iustitia inviolata malis·placidissima <persName>virgo</persName>·</l>
+      <l n="105">Seu illa astrei genus est quem fama parentem</l>
+      <l n="106">Traditit astrorum·seu vero intercidit<unclear>avo</unclear>·</l>
+      <l n="107">Ortus fama tui· mediis te laeta ferebas</l>
+      <l n="108">Sublimis populis·nec de dignata subire</l>
+      <l n="109">Tecta hominum·et puros sine crimine diva penates</l>
+      <l n="110">Iura dabas·cultuque novo rudem vulgus <dontknow>inoms</dontknow></l>
+      <l n="111">Formabas vitem sinceros artibus usus;</l>
+      <l n="112">Nondum vesanos rabies nudaverat enses·</l>
+      <l n="113">Nec consanguineis fuerat discordia nota·</l>
+      <l n="114">Ignotique maris cursus·privataque tellus </l>
+      <l n="115">Grata satis; neque per dubios avidissima ventos·</l>
+      <l n="116">Spes·procul amotas fabricata nave petebant·</l>'
+      <l n="117">Diuitias; fructusque dabat placata colono </l>
+      <l n="118">Sponte sua tellus·nec parui terminus agri </l>
+      <l n="119">Praestabat <choice><abbr>dns</abbr><expan>dominus</expan></choice> signo tutissima rura·</l>
+      <l n="120">At·postquam argenti crevit deformior aetas·</l>
+      <l n="121">Raribus inuasit maculatas fraudibus urbes·</l>
+      <l n="122">Seraque ab excelsis descendens montibus ore </l>
+
+      <!-- 3 recto -->
+      <l n="123">Velato· <abbr>tristesq·</abbr><expan>tristesque</expan> genas abscondita ripa;</l>
+      <l n="124">Nullus tunc larem· nullos adit illa penates;</l>
+      <l n="125">Tantum cum trepidum uulgus cetusque notabat·</l>
+      <l n="126">Increpat opatrum soboles oblita priorum</l>
+      <l n="127">Degeneres semper· semperque habitura minores;</l>
+      <l n="128">Quidme cuius abit usus per vota precatis·</l>
+      <l n="129">Querenda est sedes nobis noua saecula vestra</l>
+      <l n="130">Artibus indomitis tradam· scelerique cruento;</l>
+      <l n="131">Haec effata· super montes petit alite corsu·</l>
+      <l n="132">Attontitos linquens populos graviora paventis;</l>
+      <l n="133"></l>
+
+      <l n="148">Ad capitis suberunt gemini prolemque- tonantis- </l>
+      <l n="148a">Aegregriam- et proprio post reddita numina celo ;</l>
+      <l n="148b">Nam iachedemonus cum mars caluisset aphidnis </l>
+      <l n="148c">Castor a cecropi tulit me sementia belli</l>
+      <l n="148d">At frater lucemque et fata super facit aeui- </l>
+      <l n="148e">Protinus alternae germanos tempora une- </l>
+      <l n="148f">Iuppiter attollit- caelique me elsa receptans</l>
+      <l n="149g">Aeternae flagrare facis iubet ignibus ambos</l>
+
+      <!-- 3 verso -->
+      <l n="147">Qua media helicen subiectum respice <persName>cancrum</persName>·</l>
+      <l n="147a">Qua pede posterior et duro concaua dorso</l>
+      <l n="147b">Tegmina curuamtur· geminus micat ardor inauras·</l>
+      <l n="147c">Forma solis dispar chelerum flamma coruscat;</l>
+      <l n="147d">Namque tribus stellis adoletur dextera <persName>cancro</persName>·</l>
+      <l n="147e">Leua duas pigro succedit fomite flammas;</l>
+
+      <l n="149"><choice><abbr>horrentisq</abbr><expan>horrentisque</expan></choice>iubas. aefuluum cerne leonem.</l>
+      <l n="150">hunc ubi contigerit phoebi uiolentior axis.</l>
+      <l n="151">accensa incancro. iam tum geminabitur aestas;</l>
+      <l n="152">hinc nimfe tenues. tunc est tristissima tellus.</l>
+      <l n="153">et densas letus segetes bene condet arator;</l>
+      <l n="154">ne mihi tu_ remis pulsae uada caerula puppis.</l>
+      <l n="155">neu potius uentis ex cusso uela rudenti.</l>
+      <l n="156"><choice><abbr>excipiamq</abbr><expan>excipiamque</expan></choice> sinus. zephiris spirantibus auras;</l>
+
+      <!-- 4 recto -->
+      <l n="241"> Hunc ultra gemini piscis quorum alter in austros$</l>
+      <l n="242"> Tendit threicium boream $ petit alter et audit</l>
+      <l n="243"> Stridentis auras $ niueus quas procreat hemus</l>
+      <l n="244"> Non illis liber cursus $ sed uincula cauda</l>
+      <l n="245"> Cingula iterumque $ tenent $ uno coeuntia nodo</l>
+      <l n="246"> Nodum stella premit piscis $ qui respicit auras</l>
+      <l n="247"> Threicias $ dextram andromede ceranatur adillam</l>
+      <l n="248"> Subter utrumque pedem devote virginis ales; </l>
+      <l n="249"> <persName>Perseos</persName> effigies servate grata puellae; </l>
+      <l n="250"> Moles ipsa viri satis est testata parentem; </l>
+      <l n="251"> Tantus ubique micat tantum occupat ab <persName>iove</persName> caeli; </l>
+      <l n="252"> Dextera sublatae similis prope <persName><choice><abbr>cassiepia</abbr><expan>cassieopia</expan></choice></persName>. </l>
+      <l n="253"> Sublimis fulget pedibus properare videtur. </l>
+      <l n="254"> Et velle aligeris purum ethera findere plantis. </l>
+      <l n="255"> Poplite sub levo tauri certissima signa; </l>
+
+    </body>
+  </text>
+</TEI>
