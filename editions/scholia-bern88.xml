@@ -8,6 +8,10 @@
         <editor>William Crounse</editor>
         <editor>Lorna Mathias</editor>
         <editor>Madeleine Pooler</editor>
+        <editor>Maia Lee-Chin</editor>
+        <editor>Zachary Tympanick</editor>
+        <editor>James Garry</editor>
+        <editor>Anne-Catherine Schaaf>
       </titleStmt>
       <editionStmt>
         <p>Original diplomatic edition of Bern 88</p>
@@ -22,6 +26,13 @@
   </teiHeader>
   <text>
     <body>
+      <div n="1v">
+        <ab n="1">
+            helix arcturus maior. habet autem in capite stellas obscuras ~<num n="7">vii</num>~ inspatula ~<num n="1">i</num>~ super pectus ~<num n="1">i</num>~ in pede ~<num n="1">i</num>~ in dorso ~<num n="1">i</num>~ in tibia anteriore ~<num n="2">ii</num>~ super caudam ~<num n="3">iii</num>~ sunt omnes ~<num n="16">xvi</num>
+        <ab n="2">
+            draco qui continet utroque · arcturos helicis super voluit caput fenicis circum cingit caudam. habet autem in capite stelllas splendidas · <num n="3">iii</num>· et per tutum corpus ·<num n="12">xii</num>· abinuice distantes· sunt omnes·<num n="15">xv</num>~
+        <ab n="3">
+          helix qui et arcturus minor dicitur~ et aqubusdam canis cauda vocatur. habet autem per unum quemque angulum~ inumero splendidam stellam ~<num n="1">i</num>~ incauda ~<num n="3">iii</num>~ sunt autem inter ambos arcturos stelle ~<num n="23">xxiii</num>~ super autem sunt stelle ~<num n="10">x</num>~ que precedunt et dicuntur ludentes~ et minissima una que vocatur polus~ ubi dicunt totum mundum <choice><sic>revolui</sic><corr>revoloui</corr></choice>;
       <div n="2r">
         <ab n="2">
           Corona uero · habet stellas <num n="9">viiii</num> in circuitu
@@ -35,8 +46,8 @@
         </ab>
       </div>
 
-      
-      
+
+
             <div n="5r">
         <ab n="1">
         cignus habet stellam in capite splendidam <num n="1">I</num> in collo splendidam <num n="1">I</num> in dextra ala <num n="5">u</num> unam nitidam quae est erga collum in sinistra ala. <num n="5">u</num> in corpore <num n="1">I</num> in genitale suo magnam <num n="1">I</num> sunt omnes <num n="14">XIIII</num>
@@ -50,8 +61,8 @@
         Delfinus·non multum supercurrit copricorno. habet in ore stellam <num n="1">I</num> in uertice <num n="1">II</num> in ala secus uentrem <num n="3">III</num> supra dorsum <num n="1">I</num> in cauda <num n="2">II</num> Sunt omnes <num n="9">uiiii</num>
         </ab>
       </div>
-      
-      
+
+
     </body>
   </text>
 </TEI>
