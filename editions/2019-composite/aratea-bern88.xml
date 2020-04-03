@@ -13,6 +13,7 @@
         <editor>Anastasia Kaliabakos</editor>
         <editor>Stephen Louis Pittman</editor>
         <editor>Augusta Valentina Holyfield</editor>
+        <editor>Ryan Wynn</editor>
       </titleStmt>
       <editionStmt>
         <p>Original diplomatic edition of Bern 88</p>
@@ -29,13 +30,13 @@
     <body>
 
       <!-- 1 verso -->
-      <l n="1">Ab <persName>ioue</persName> principium magno deduxit <persName>Aratus></persName></l>
-      <l n="2">Carminis at nobis genitor tu maximus auctor</l>
+      <l n="1">Ab <persName>ioue</persName> principium magno deduxit <persName>Aratus></persName>·</l>
+      <l n="2">Carminis at nobis genitor tu maximus auctor·</l>
       <l n="3">Te ueneror · tibi sacra fero · doctique laboris</l>
       <l n="4">Primitias · <unclear>'</unclear> probat ipse deum rectorque satorque</l>
-      <l n="5">Quantum et enim <choice><sic>possent</sic><corr>possint</corr></choice> anni certissimia signa · </l>
-      <l n="6">Qua sol ardentem cancrum papidissimus ambit.</l>
-      <l n="7">Diuersasque  secat metas gelidi capricorni</l>
+      <l n="5">Quantum et enim <choice><sic>possent</sic><corr>possint</corr></choice> anni certissimia signa·</l>
+      <l n="6">Qua sol ardentem cancrum papidissimus ambit·</l>
+      <l n="7">Diuersasque secat metas gelidi capricorni·</l>
       <l n="8"><choice><sic>quaeue</sic><corr>quaue</corr></choice> aries · et libra  <choice><sic>equant</sic><corr>aequant</corr></choice> diuortia lucis ·</l>
       <l n="9">Si non <choice><sic>parta</sic><corr>+tanta</corr></choice> quies te preside puppibus aequor ·</l>
       <l n="10">Cultorique daret terras · procul arma silerent · </l>
@@ -43,6 +44,9 @@
       <l n="12">Sideraque et mundi uarios agnoscere motus ·</l>
       <l n="13">Nauita quid caueat · quid scitus uitet arator ;</l>
       <l n="14">Quando ratem uentis · aut credat femina terris ·</l>
+      <l n="15">haec ego dum latis <choice><sic>conor</sic><corr>+cogor</corr></choice> predicere musis·</l>
+      <l n="16">Pax tua tuque <choice><sic>adsis</sic><corr>assis</corr></choice> nato · numenque secudes·</l>
+      <l n="17">Cetera quae toto fulgent uaga sidera mundo·</l>
 
       <!-- 2 recto -->
       <l n="48">Has inter medias abrupti fluminis instar·</l>
