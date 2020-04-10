@@ -11,7 +11,7 @@
         <editor>Maia Lee-Chin</editor>
         <editor>Zachary Tympanick</editor>
         <editor>James Garry</editor>
-        <editor>Anne-Catherine Schaaf>
+        <editor>Anne-Catherine Schaaf</editor>
       </titleStmt>
       <editionStmt>
         <p>Original diplomatic edition of Bern 88</p>
@@ -29,10 +29,14 @@
       <div n="1v">
         <ab n="1">
             helix arcturus maior. habet autem in capite stellas obscuras ~<num n="7">vii</num>~ inspatula ~<num n="1">i</num>~ super pectus ~<num n="1">i</num>~ in pede ~<num n="1">i</num>~ in dorso ~<num n="1">i</num>~ in tibia anteriore ~<num n="2">ii</num>~ super caudam ~<num n="3">iii</num>~ sunt omnes ~<num n="16">xvi</num>
+          </ab>
         <ab n="2">
-            draco qui continet utroque · arcturos helicis super voluit caput fenicis circum cingit caudam. habet autem in capite stelllas splendidas · <num n="3">iii</num>· et per tutum corpus ·<num n="12">xii</num>· abinuice distantes· sunt omnes·<num n="15">xv</num>~
+            draco qui continet utroque · arcturos helicis super voluit caput fenicis circum cingit caudam. habet autem in capite stelllas splendidas · <num n="3">iii</num>· et per tutum corpus ·<num n="12">xii</num>· abinuice distantes· sunt omnes·<num n="15">xv</num>
+              </ab>
         <ab n="3">
-          helix qui et arcturus minor dicitur~ et aqubusdam canis cauda vocatur. habet autem per unum quemque angulum~ inumero splendidam stellam ~<num n="1">i</num>~ incauda ~<num n="3">iii</num>~ sunt autem inter ambos arcturos stelle ~<num n="23">xxiii</num>~ super autem sunt stelle ~<num n="10">x</num>~ que precedunt et dicuntur ludentes~ et minissima una que vocatur polus~ ubi dicunt totum mundum <choice><sic>revolui</sic><corr>revoloui</corr></choice>;
+          helix qui et arcturus minor dicitur~ et aqubusdam canis cauda vocatur. habet autem per unum quemque angulum~ inumero splendidam stellam ~<num n="1">i</num>~ incauda ~<num n="3">iii</num>~ sunt autem inter ambos arcturos stelle ~<num n="23">xxiii</num>~ super autem sunt stelle ~<num n="10">x</num>~ que precedunt et dicuntur ludentes~ et minissima una que vocatur polus~ ubi dicunt totum mundum <choice><sic>revolui</sic><corr>revoloui</corr></choice>
+          </ab>
+          </div>
       <div n="2r">
         <ab n="2">
           Corona uero · habet stellas <num n="9">viiii</num> in circuitu
