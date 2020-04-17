@@ -12,6 +12,7 @@
         <editor>Zachary Tympanick</editor>
         <editor>James Garry</editor>
         <editor>Anne-Catherine Schaaf</editor>
+        <editor>Richard Ciolek</editor>
       </titleStmt>
       <editionStmt>
         <p>Original diplomatic edition of Bern 88</p>
@@ -27,18 +28,18 @@
   <text>
     <body>
       <div n="1v">
-        <ab n="1">
+        <ab n="1v_1">
             helix arcturus maior. habet autem in capite stellas obscuras ~<num n="7">vii</num>~ inspatula ~<num n="1">i</num>~ super pectus ~<num n="1">i</num>~ in pede ~<num n="1">i</num>~ in dorso ~<num n="1">i</num>~ in tibia anteriore ~<num n="2">ii</num>~ super caudam ~<num n="3">iii</num>~ sunt omnes ~<num n="16">xvi</num>
           </ab>
-        <ab n="2">
+        <ab n="1v_2">
             draco qui continet utroque · arcturos helicis super voluit caput fenicis circum cingit caudam. habet autem in capite stelllas splendidas · <num n="3">iii</num>· et per tutum corpus ·<num n="12">xii</num>· abinuice distantes· sunt omnes·<num n="15">xv</num>
               </ab>
-        <ab n="3">
+        <ab n="1v_3">
           helix qui et arcturus minor dicitur~ et aqubusdam canis cauda vocatur. habet autem per unum quemque angulum~ inumero splendidam stellam ~<num n="1">i</num>~ incauda ~<num n="3">iii</num>~ sunt autem inter ambos arcturos stelle ~<num n="23">xxiii</num>~ super autem sunt stelle ~<num n="10">x</num>~ que precedunt et dicuntur ludentes~ et minissima una que vocatur polus~ ubi dicunt totum mundum <choice><sic>revolui</sic><corr>revoloui</corr></choice>
           </ab>
           </div>
       <div n="2r">
-        <ab n="2">
+        <ab n="2_1">
           Corona uero · habet stellas <num n="9">viiii</num> in circuitu
           positas · sed ex ipsis sunt <num n="3">iii</num> splendidiores
           ad caput serpentis arcturi ·
@@ -46,26 +47,37 @@
       </div>
 
             <div n="4v">
-        <ab n="2"> lira habet stellas in ueroque pectino <num n="1">·I· </num> in sigulos pedales <num n="1">·I· </num> in modolo <num n="1">·I· </num> in ueroque
+        <ab n="4v_1"><rs type="astro">Virgiliarum</rs> <num n="7">VII</num> stellae
+        quarum una uix intuaetur quamdi sunt obariore <persName>orionis</persName> fugisse quidam
+        a salo pro fotuetas arbitranturue
+          </ab>
+        <ab n="4v_2"> lira habet stellas in ueroque pectino <num n="1">·I· </num> in sigulos pedales <num n="1">·I· </num> in modolo <num n="1">·I· </num> in ueroque
         </ab>
       </div>
 
 
 
             <div n="5r">
-        <ab n="1">
+        <ab n="5r_1">
         cignus habet stellam in capite splendidam <num n="1">I</num> in collo splendidam <num n="1">I</num> in dextra ala <num n="5">u</num> unam nitidam quae est erga collum in sinistra ala. <num n="5">u</num> in corpore <num n="1">I</num> in genitale suo magnam <num n="1">I</num> sunt omnes <num n="14">XIIII</num>
         </ab>
       </div>
       <div n="6r">
-       <ab n="1">
+       <ab n="6r_1">
        Aquila habet in pede stellam <num n="1">I</num> in medio corpore obscuram. <num n="1">I</num> in rostro superiori <num n="1">I</num> in subteriori <num n="1">I</num> sunt omnes <num n="4">IIII</num>
         </ab>
-        <ab n="2">
+        <ab n="6r_2">
         Delfinus·non multum supercurrit copricorno. habet in ore stellam <num n="1">I</num> in uertice <num n="1">II</num> in ala secus uentrem <num n="3">III</num> supra dorsum <num n="1">I</num> in cauda <num n="2">II</num> Sunt omnes <num n="9">uiiii</num>
         </ab>
       </div>
-
+      <div n="6v">
+       <ab n="6v_1">
+      <persName>Orion</persName> ob<unclear>liens</unclear> <unclear>quid</unclear>
+      in <unclear>capite</unclear> stellas splendidas: <unclear>ill: ex quibus</unclear> <unclear>una</unclear> splendidior ceteris: in veroque umero splendida <num n="1">I</num> in dextro cubite <unclear></unclear><num n="1">1</num> alis <unclear></unclear>: in sumitate mars <num n="1">I</num></ab>
+        <ab n="6r_2">
+        Delfinus·non multum supercurrit copricorno. habet in ore stellam <num n="1">I</num> in uertice <num n="1">II</num> in ala secus uentrem <num n="3">III</num> supra dorsum <num n="1">I</num> in cauda <num n="2">II</num> Sunt omnes <num n="9">uiiii</num>
+        </ab>
+      </div>
 
     </body>
   </text>
