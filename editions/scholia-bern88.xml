@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http~//www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -32,30 +32,69 @@
             helix arcturus maior. habet autem in capite stellas obscuras ~<num n="7">vii</num>~ inspatula ~<num n="1">i</num>~ super pectus ~<num n="1">i</num>~ in pede ~<num n="1">i</num>~ in dorso ~<num n="1">i</num>~ in tibia anteriore ~<num n="2">ii</num>~ super caudam ~<num n="3">iii</num>~ sunt omnes ~<num n="16">xvi</num>
           </ab>
         <ab n="1v_2">
-            draco qui continet utroque · arcturos helicis super voluit caput fenicis circum cingit caudam. habet autem in capite stelllas splendidas · <num n="3">iii</num>· et per tutum corpus ·<num n="12">xii</num>· abinuice distantes· sunt omnes·<num n="15">xv</num>
+            draco qui continet utroque~ arcturos helicis super voluit caput fenicis circum cingit caudam. habet autem in capite stelllas splendidas~ <num n="3">iii</num>~ et per tutum corpus ~<num n="12">xii</num>· abinuice distantes· sunt omnes~<num n="15">xv</num>
               </ab>
         <ab n="1v_3">
-          helix qui et arcturus minor dicitur~ et aqubusdam canis cauda vocatur. habet autem per unum quemque angulum~ inumero splendidam stellam ~<num n="1">i</num>~ incauda ~<num n="3">iii</num>~ sunt autem inter ambos arcturos stelle ~<num n="23">xxiii</num>~ super autem sunt stelle ~<num n="10">x</num>~ que precedunt et dicuntur ludentes~ et minissima una que vocatur polus~ ubi dicunt totum mundum <choice><sic>revolui</sic><corr>revoloui</corr></choice>
+            helix qui et arcturus minor dicitur~ et aqubusdam canis cauda vocatur. habet autem per unum quemque angulum~ inumero splendidam stellam ~<num n="1">i</num>~ incauda ~<num n="3">iii</num>~ sunt autem inter ambos arcturos stelle ~<num n="23">xxiii</num>~ super autem sunt stelle ~<num n="10">x</num>~ que precedunt et dicuntur ludentes~ et minissima una que vocatur polus~ ubi dicunt totum mundum <choice><sic>revolui</sic><corr>revoloui</corr></choice>
           </ab>
           </div>
       <div n="2r">
-        <ab n="2_1">
-          Corona uero · habet stellas <num n="9">viiii</num> in circuitu
-          positas · sed ex ipsis sunt <num n="3">iii</num> splendidiores
-          ad caput serpentis arcturi ·
+        <ab n="2r_1">
+          Hercules qui stans genu flexu habet autem stellam incapite <num n="1">I</num> in utroque umero <num n="1">I</num> splendidam~ in cubito sinistro <num n="1">I</num> in dextra coxia <num n="2">II</num> in genu dextro <num n="1">I</num> in eadem tibia <num n="1">I</num> in sinistro genu <num n="1">I</num> in eadem tibia una. In dextra manu <num n="1">I</num> et in ropolo quem tenet in eadem manu <num n="1">I</num> sunt <choice><abbr>oms</abbr><expan>omnes</expan></choice> <num n="12">XII</num>
+        </ab>
+        <ab n="2r_2">
+          Corona uero~ habet stellas <num n="9">viiii</num> in circuitu
+          positas~ sed ex ipsis sunt <num n="3">iii</num> splendidiores
+          ad caput serpentis arcturi~
         </ab>
       </div>
-
-            <div n="4v">
+      <div n="2v">
+        <ab n="2v_1">
+          Serpentarius qui et asclepius dicitur stans vero supra scorpionem~ tenet serpentem in manibus habet autem in capite stellam splendidam <num n="1">I</num> in sinistra manu <num n="3">III</num> in dextra <num n="4">IIII</num> in utroque umero <num n="1">I</num> splendidam~ in utrisque lumbis <num n="1">I</num> in utroque genu <num n="1">I</num> in dextra tibia <num n="1">I</num> in utroque pede <num n="1">I</num> sunt <choice><abbr>oms</abbr><expan>omnes</expan></choice> <num n="17">XVII</num> serpens quem tenet in manu habet stellas in capite <num n="2">II</num> perre <unclear>loquitur</unclear> corpus <num n="4">IIII</num> fiunt in simul <num n="23">XXIII</num>
+        </ab>
+        <ab n="2v_2">
+          Scorpio habet stellas in utrisque labiis <num n="2">II</num> quarum priores sunt magne
+          secunde obscure~ in fronte vero <num n="3">III</num> media autem ex ipsis splendidior est ceteris~ in spino splendidas~ <num n="3">III</num> in ventre <num n="2">II</num> in cauda <num n="5">V</num> super aculeum <num n="2">II</num> sunt omnis <num n="19">XVIIII</num>
+        </ab>
+        <ab n="2v_3">
+          <w><gap></gap>rttoas</w> qui et bootis fertur esse custos plaustri~ habet autem stellas in dextra manu que non occidunt <num n="4">IIII</num> in capite splendidam <num n="1">I</num> in utroque umero <num n="1">I</num> in utrisque mamillis <num n="1">I</num> in dextro cubito <num n="4">IIII</num> in sinistro <num n="1">I</num> in utroque genu <num n="1">I</num> sunt omnis <num n="16">XVI</num>
+        </ab>
+      </div>
+      <div n="3r">
+        <ab n="3r_1">
+          Virgo que et iustitia apellatur~ habet stellam in capite obscuram valde unam~ in una quaque ala duas~ in utrisque umeris singulas~ in uno quoque~ cubito unam~ in singulis manibus fingulas in penula vestimenti <num n="6">sex</num> in uno quoque pede unam omnis <num n="19">XVIIII</num>
+        </ab>
+        <ab n="3r_2">
+          Ex gemenis prior qui excedit a cancro~ habet stellam in capite splendidam <num n="1">I</num> in utroque umero splendidam <num n="1">I</num> in utroque genu unam~ sunt omnes <num n="5">V</num>
+          Alter vero habet stellam in capite splendidam <num n="1">I</num> in umero sinistro <num n="1">I</num> per singula femora <num n="1">I</num> in dorso <num n="3">III</num> sunt omnes <num n="7">VII</num> inter utrosque vero <num n="12">XII</num>
+        </ab>
+      </div>
+      <div n="3v">
+        <ab n="3v_1">
+          Cancer habet stellas splendidas in testu ? <num n="4">IIII</num> in dextris pedibus per singulos <num n="1">I</num> in sinistro primo <num n="2">II</num> et in sinistro tertio <num n="1">I</num> in quarto <num n="1">I</num> in ore unam~ in dextro labio <num n="3">III</num> in sinistro <num n="2">II</num> sunt omnes <num n="18"><num n="10">X</num> et <num n="8">VIII</num></num>
+        </ab>
+        <ab n="3v_2">
+          Leo habet stellas in capite  <num n="3">III</num> in cervice  <num n="2">II</num> in pectore  <num n="1">I</num> in dorso <num n="3">III</num> in summitate caudae splendidam unam~ sub pectore <num n="2">II</num> in anteriori pede splendidam <num n="1">unam</num> sunt omnes  <num n="13">XIII</num>
+        </ab>
+      </div>
+        <div n="4r">
+        <ab n="4r_1">
+          Pisces aquilonius~ habet stellas <num n="12">XII</num> australis <num n="15">XV</num> linteum eorum in quo continentur~ habet stellas ad aquilonem <num n="3">III</num> ad occasum <num n="3">III</num> in conexum tres~ sunt omnes <num n="39">XXXVIIII</num>
+        </ab>
+        <ab n="4r_2">
+          Perseus qui fertur tenere caput gurgonis habet stellas in utroque umero splendidam <num n="1">I</num> in summitatem manus dextre <num n="1">I</num> in eiusdem cubito <num n="1">I</num> insummitate manus sinistre <num n="1">I</num> in ventre <num n="1">I</num> in dextro lumbo nitidam~ in dextro femore splendidam <num n="1">I</num> in utroque genu <num n="1">I</num> in tibia <num n="2">II</num> Gurgonus dicitur habere in capite stellam <num n="1">I</num> et in crinibus <num n="3">III</num> sunt omnes <num n="16">XVI</num>
+        </ab>
+      </div>
+      <div n="4v">
         <ab n="4v_1"><rs type="astro">Virgiliarum</rs> <num n="7">VII</num> stellae
         quarum una uix intuaetur quamdi sunt obariore <persName>orionis</persName> fugisse quidam
         a salo pro fotuetas arbitranturue
           </ab>
-        <ab n="4v_2"> lira habet stellas in ueroque pectino <num n="1">·I· </num> in sigulos pedales <num n="1">·I· </num> in modolo <num n="1">·I· </num> in ueroque
+        <ab n="4v_2"> lira habet stellas in ueroque pectino <num n="1">I</num> in sigulos pedales <num n="1">I</num> in modolo <num n="1">I</num> in ueroque
         </ab>
       </div>
 
-            <div n="5r">
+      <div n="5r">
         <ab n="5r_1">
         cignus habet stellam in capite splendidam <num n="1">I</num> in collo splendidam <num n="1">I</num> in dextra ala <num n="5">u</num> unam nitidam quae est erga collum in sinistra ala. <num n="5">u</num> in corpore <num n="1">I</num> in genitale suo magnam <num n="1">I</num> sunt omnes <num n="14">XIIII</num>
         </ab>
@@ -71,14 +110,14 @@
       <div n="6v">
         <ab n="6v_1">
       <persName>Orion</persName> ob<unclear>liens</unclear> <unclear>quid</unclear>
-      in <unclear>capite</unclear> stellas splendidas: <unclear>ill: ex quibus</unclear> <unclear>una</unclear> splendidior ceteris: in veroque umero splendida <num n="1">I</num> in dextro cubite <unclear></unclear><num n="1">1</num> alis <unclear></unclear>: in sumitate mars <num n="1">I</num> in zona <num n="3">III</num> in mantile <num n="3">III</num> obscuras in utroque genui <num n="1">I</num> in utrisque pedibus <num n="1">I</num> sunt omnes <num n="10">X</num> et <num n="7">VII</num>
+      in <unclear>capite</unclear> stellas splendidas~ <unclear>ill~ ex quibus</unclear> <unclear>una</unclear> splendidior ceteris~ in veroque umero splendida <num n="1">I</num> in dextro cubite <unclear></unclear><num n="1">1</num> alis <unclear></unclear>~ in sumitate mars <num n="1">I</num> in zona <num n="3">III</num> in mantile <num n="3">III</num> obscuras in utroque genui <num n="1">I</num> in utrisque pedibus <num n="1">I</num> sunt omnes <num n="10">X</num> et <num n="7">VII</num>
         </ab>
 
         <ab n="6v_2">
 Lepus habet stellas in utrisque auribus <num n="1">1</num> in corpore <num n="2">II</num> in dorso nitidam <num n="1">I</num> in posterioribus pedibus per singulos <num n="1">I</num> sunt omnes <num n="7">VII</num>
         </ab>
         <ab n="6v_3">
-Canicula que oritur post orionem; habet stellam splendida in lingua <num n"1">I</num> quam <rs type="astro">Syrium</rs> multum et canem vocant rutilantem multum; et per colores in mutantem, in utroque umero obscura <num n"1">I</num> in pectore <num n"2">II</num> in anteri pede sinistro <num n"3">III</num> in dextro <num n"1">I</num> supra dorsum <num n"3">III</num> in ventre <num n"2">II</num> in sinistro lumbo <num n"1">I</num> in posteriori pede sinistro <num n"1">I</num> in summitate caude <num n"1">I</num> <choice><abbr>oms</abbr><expan>omnes</expan></choice><num n"10">X</num> et <num n"7">VII</num>?
+Canicula que oritur post orionem~ habet stellam splendida in lingua <num n="1">I</num> quam <rs type="astro">Syrium</rs> multum et canem vocant rutilantem multum~ et per colores in mutantem, in utroque umero obscura <num n="1">I</num> in pectore <num n="2">II</num> in anteri pede sinistro <num n="3">III</num> in dextro <num n="1">I</num> supra dorsum <num n="3">III</num> in ventre<num n="2">II</num> in sinistro lumbo<num n="1">I</num> in posteriori pede sinistro <num n="1">I</num> in summitate caude <num n="1">I</num> <choice><abbr>oms</abbr><expan>omnes</expan></choice><num n="17"><num n="10">X</num> et <num n="7">VII</num></num>
         </ab>
       </div>
 
