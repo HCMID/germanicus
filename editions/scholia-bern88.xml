@@ -98,6 +98,9 @@
         <ab n="5r_1">
         cignus habet stellam in capite splendidam <num n="1">I</num> in collo splendidam <num n="1">I</num> in dextra ala <num n="5">u</num> unam nitidam quae est erga collum in sinistra ala. <num n="5">u</num> in corpore <num n="1">I</num> in genitale suo magnam <num n="1">I</num> sunt omnes <num n="14">XIIII</num>
         </ab>
+        <ab n="5r_2">
+          Aquarius habet in capite stellas obscuras <num n="2">II</num> in utroque umero <num n="1">I</num> in utroque cubito splendidam <num n="1">I</num> in summis manibus <num n="1">I</num> per singulas mamillas <num n="1">I</num> subtus mamillas ex utraque parte <num n="1">I</num> in sinistro lumbo <num n="1">I</num> in utroque genu <num n="1">I</num> in dextra tibia <num n="1">I</num> in singulis pedibus <num n="1">I</num> sunt omnes <num n="18">XVIII</num> Effusio autem aquae fit dextra levaque in quo <num n="2">II</num> spendidae sunt ceterae vero obscurae~
+        </ab>
       </div>
       <div n="6r">
        <ab n="6r_1">
@@ -120,7 +123,11 @@ Lepus habet stellas in utrisque auribus <num n="1">1</num> in corpore <num n="2"
 Canicula que oritur post orionem~ habet stellam splendida in lingua <num n="1">I</num> quam <rs type="astro">Syrium</rs> multum et canem vocant rutilantem multum~ et per colores in mutantem, in utroque umero obscura <num n="1">I</num> in pectore <num n="2">II</num> in anteri pede sinistro <num n="3">III</num> in dextro <num n="1">I</num> supra dorsum <num n="3">III</num> in ventre<num n="2">II</num> in sinistro lumbo<num n="1">I</num> in posteriori pede sinistro <num n="1">I</num> in summitate caude <num n="1">I</num> <choice><abbr>oms</abbr><expan>omnes</expan></choice><num n="17"><num n="10">X</num> et <num n="7">VII</num></num>
         </ab>
       </div>
-
+      <div n="7r">
+        <ab n="7r_1">
+          Navis que apud argivos?? argo vocatur habet stellas in anteriore parte navis <num n="4">IIII</num> et in puppi <num n='4'>IIII</num> in utroque temone <num n="5">V</num> in velo <num n='3'>III</num> in costa navis <num n='5'>V</num> sunt omnes <num n='26'>XXVI</num>
+          </ab>
+          </div>
     </body>
   </text>
 </TEI>
