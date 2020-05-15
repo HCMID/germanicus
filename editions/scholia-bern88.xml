@@ -108,6 +108,8 @@
         </ab>
         <ab n="5v_2">
           Sagittarius habet stellas in capite <num n="2">II</num> in costis <num n="2">II</num> in dextro cubito <num n="1">I</num> in scapula nitidam <num n="1">I</num> in dorso <num n="2">II</num> <add>in cauda <num n="2">II</num></add> in anteriori genu <num n="1">I</num> in utroque pede <num n="1">I</num> in arcu <num n="2">II</num> et in iaculo <num n="4">IIII</num> una vero in summo~ alia in medio obscura et due in pennis iaculi ex quibus una? est clarior~ sunt omnes ? <num n="19">XVIIII</num>
+          </ab>
+          </div>
       <div n="6r">
         <ab n="6r_1">
           Aquila habet in pede stellam <num n="1">I</num> in medio corpore obscuram. <num n="1">I</num> in rostro superiori <num n="1">I</num> in subteriori <num n="1">I</num> sunt omnes <num n="4">IIII</num>
@@ -133,7 +135,18 @@ Canicula que oritur post orionem~ habet stellam splendida in lingua <num n="1">I
         <ab n="7r_1">
           Navis que apud argivos?? argo vocatur habet stellas in anteriore parte navis <num n="4">IIII</num> et in puppi <num n='4'>IIII</num> in utroque temone <num n="5">V</num> in velo <num n='3'>III</num> in costa navis <num n='5'>V</num> sunt omnes <num n='26'>XXVI</num>
           </ab>
+        <ab n="7r_2">
+          Coetus sub ariete et piscibus gradiens~ habet stellas incauda <num n="2">II</num> obscuras~ A caudausque adgimbum <num n="6">VI</num> in ventre <num n="6">VI</num> sunt omnes <num n="14">XIIII</num>
+        </ab>
           </div>
+        <div n="7v">
+          <ab n="7v_1">
+            Eurus qui et eridanus et a quibusdam nilus qui et gion~ a <choice><sic>meridianus</sic><corr>meridianis</corr></choice> partibus habens micium~ adorionis pedem tendens~ sub iacet ei stella quae vocatur canovos splendens~ quae <unclear></unclear> navis spatium paruum paret~ eo quidem circa terram esse videtur~ habet stellas in prima acie <num n="3">III</num> in secunda  <num n="3">III</num> in tertia <num n="3">III</num> usque adnovissimas  <num n="7">VII</num> quas dicunt in ore nili fluuii esse~ Sunt omnes <choice><sic><unclear><num n="23">XXIII</num></unclear></sic><corr><num n="12">XII</num></corr></choice>
+          </ab>
+        <ab n="7v_2">
+            piscis magnus qui et auster dicitur a capricorno usque adp
+            </ab>
+        </div>
     </body>
   </text>
 </TEI>
