@@ -21,5 +21,5 @@ See our [project wiki](https://github.com/HCMID/germanicus/wiki) for information
 ## Quick reference for editors
 
 
--  [Citable images of the manuscript](https://hcmid.github.io/ms-hackathon-2018/bern88-thumbs/)
--  [References for editors](https://hcmid.github.io/ms-hackathon-2019/references/) (from the 2019 hackathon)
+-  [Citable images of the manuscript](https://hcmid.github.io/ms-hackathon-2020/bern88-thumbs/)
+-  [References for editors](https://hcmid.github.io/ms-hackathon-2020/references/) (from the 2020 hackathon)
