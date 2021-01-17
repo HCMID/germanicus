@@ -27,9 +27,8 @@ begin
 	Pkg.add("DataFrames")
 	Pkg.add("EditorsRepo")
 	Pkg.add("Orthography")
+	Pkg.add("EditionBuilders")
 	
-	# Waiting for packages to clear Julia Registry
-	Pkg.add(url="https://github.com/HCMID/EditionBuilders.jl")
 
 	
 	using PlutoUI
@@ -375,7 +374,10 @@ md"These functions compile diplomatic and normalized texts for the repository."
 function fileforu(urn)
 	row = filter(r -> droppassage(urn) == r[:urn], textconfig)
 	f= editorsrepo.root * "/" * editorsrepo.editions * "/" *	row[1,:file]
-	xml = read(f, String)
+	contents = open(f) do file
+    	read(file, String)
+	end
+	contents
 end
 
 # ╔═╡ d279148a-580c-11eb-1d5e-77470b9b3672
