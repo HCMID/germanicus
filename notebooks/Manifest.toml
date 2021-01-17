@@ -123,8 +123,6 @@ version = "0.26.1"
 [[EditionBuilders]]
 deps = ["CitableText", "DocStringExtensions", "Documenter", "EzXML", "Test"]
 git-tree-sha1 = "1dc7d14c300afeadc7fd5489069a6203bb73d7e6"
-repo-rev = "main"
-repo-url = "https://github.com/HCMID/EditionBuilders.jl"
 uuid = "2fb66cca-c1f8-4a32-85dd-1a01a9e8cd8f"
 version = "0.1.0"
 

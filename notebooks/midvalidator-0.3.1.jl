@@ -516,6 +516,34 @@ begin
 	end
 end
 
+# ╔═╡ 61b04b7e-58a2-11eb-0761-a9145af94f96
+md"""
+---
+
+Debug this
+"""
+
+# ╔═╡ 73955ad2-58a2-11eb-3b0d-ffd17f705877
+aratea = CtsUrn("urn:cts:latinLit:phi0881.phi003.bern88:")
+
+# ╔═╡ 7d3574fa-58a2-11eb-3749-85f5f6c66dbe
+arateaxml = fileforu(aratea)
+
+# ╔═╡ 81c06232-58a2-11eb-1710-f5ef5158965b
+rdr = o2foru(aratea)
+
+# ╔═╡ 9dd67fec-58a2-11eb-3f6b-554ec01cdb99
+c = rdr(arateaxml,aratea)
+
+# ╔═╡ b2ebae70-58a2-11eb-0094-e1975c722b14
+dip = diplforu(aratea)
+
+# ╔═╡ d25fd16e-58a2-11eb-0443-cba27e026ab1
+map(cn -> editednode(dip, cn), c.corpus)
+
+# ╔═╡ ef402cc0-58a2-11eb-1c9a-ab9f0d2ef624
+diplomaticcns(aratea)
+
 # ╔═╡ Cell order:
 # ╟─0589b23a-5736-11eb-2cb7-8b122e101c35
 # ╟─fef09e62-5748-11eb-0944-c983eef98e1b
@@ -584,4 +612,12 @@ end
 # ╟─a24430ec-573a-11eb-188d-e52c79291fcf
 # ╟─b7dae7a0-573a-11eb-2c76-15974f79daf8
 # ╟─b815025a-5737-11eb-3b68-0df9e43b534d
-# ╟─75ca5ad0-5737-11eb-1a4a-17beafff6a96
+# ╠═75ca5ad0-5737-11eb-1a4a-17beafff6a96
+# ╟─61b04b7e-58a2-11eb-0761-a9145af94f96
+# ╠═73955ad2-58a2-11eb-3b0d-ffd17f705877
+# ╠═7d3574fa-58a2-11eb-3749-85f5f6c66dbe
+# ╠═81c06232-58a2-11eb-1710-f5ef5158965b
+# ╠═9dd67fec-58a2-11eb-3f6b-554ec01cdb99
+# ╠═b2ebae70-58a2-11eb-0094-e1975c722b14
+# ╠═d25fd16e-58a2-11eb-0443-cba27e026ab1
+# ╠═ef402cc0-58a2-11eb-1c9a-ab9f0d2ef624
