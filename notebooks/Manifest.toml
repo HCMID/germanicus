@@ -127,10 +127,10 @@ uuid = "2fb66cca-c1f8-4a32-85dd-1a01a9e8cd8f"
 version = "0.1.0"
 
 [[EditorsRepo]]
-deps = ["CSV", "CitableBase", "CitableObject", "CitablePhysicalText", "CitableTeiReaders", "CitableText", "DataFrames", "DocStringExtensions", "Documenter", "Test"]
-git-tree-sha1 = "06fc9811706a052a826ec9141caa94abf6db09d9"
+deps = ["CSV", "CitableBase", "CitableObject", "CitablePhysicalText", "CitableTeiReaders", "CitableText", "DataFrames", "DocStringExtensions", "Documenter", "EditionBuilders", "Orthography", "Test"]
+git-tree-sha1 = "61ec8e9a8edeacc5c5821c4c979763065e162f5b"
 uuid = "3fa2051c-bcb6-4d65-8a68-41ff86d56437"
-version = "0.4.1"
+version = "0.6.0"
 
 [[EzXML]]
 deps = ["Printf", "XML2_jll"]

@@ -1,6 +1,5 @@
 name = "MID validator notebook"
-project = "Germanicus, Aratea"
-version = "0.3.1"
+version = "0.4.0"
 
 [deps]
 CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
@@ -21,5 +20,5 @@ CitableObject = "0.2"
 CitableTeiReaders = "0.2"
 CitableText = "0.4"
 EditionBuilders = "0.1.0"
-EditorsRepo = "0.4.1"
+EditorsRepo = "0.6.0"
 Orthography = "0.3.0"
